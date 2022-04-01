@@ -1,5 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="![developer-coding](https://user-images.githubusercontent.com/88276109/161315669-a2bbf03d-0b0b-4cb2-8ba8-17f8f142bca0.jpg)
-" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src"https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abhijit Sahoo</h1>
 <h3 align="center">I'm A Student & A Passionate Learner from India.</h3>
