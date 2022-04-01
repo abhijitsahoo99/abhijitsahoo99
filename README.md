@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abhijit Sahoo</h1>
-<h3 align="center">I'm A Student & Passionate Learner from India.</h3>
+<h3 align="center">I'm A Student & A Passionate Learner from India.</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -42,7 +42,7 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/abhijitsahoo99/github-readme-stats"><img alt="Abhijit Sahoo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abhijitsahoo998&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/abhijitsahoo99/github-readme-stats"><img alt="Abhijit Sahoo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abhijitsahoo99&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/abhijitsahoo99/github-readme-stats"><img alt="Abhijit Sahoo's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijitsahoo99&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
