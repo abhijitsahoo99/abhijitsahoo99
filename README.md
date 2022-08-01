@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+`<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abhijit Sahoo</h1>
 <h3 align="center">I'm A Student & A Passionate Learner from India.</h3>
@@ -8,7 +8,7 @@
 
 - 🔭 I’m Currently Working On LeetCode Solutions I Solve At **
 
-- 🌱 I’m Currently Learning **Data Structures & Algorithms, Web Development, DevOps , UX Design**
+- 🌱 I’m Currently Learning **Data Structures & Algorithms and Web Developmen **
 
 - 👯 I’m Looking To Learn More About & Collaborate On **OpenSource Projects**
 
@@ -18,9 +18,9 @@
 
 - 🖇 You Can Connect With Me At **[LinkedIn](https://www.linkedin.com/in/abhijitsahoo99/)**
 
-- ✍🏻 Blogs On Data Structures and Algorithms, Web Development, DevOps , UX Design are availible at **[Hashnode](https://abhijitsahoo.hashnode.dev)**
+- ✍🏻 Blogs On Data Structures and Algorithms, Web Development and other Tech related are availible at **[Hashnode](https://abhijitsahoo.hashnode.dev)**
 
-- 📝 I Blog About Business & Finance At **[My Personal Website](https://abhijitsahooblog.wordpress.com)** 
+- 📝 **[My Personal Website](https://abhijitsahooblog.wordpress.com)** 
 
 ## 🚀 Languages and Tools:
 
@@ -60,8 +60,8 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/abhijitsahoo99/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/abhijitsblog"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/justabhi99/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://twitter.com/abhijitsahoo99"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/dev.elit/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
 
