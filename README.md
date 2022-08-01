@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m Currently Working On LeetCode Solutions I Solve At **
+- 🔭 I’m Currently Working On A Project **CSS Complete Guide** Where I Am Covering CSS From Complete Beginners -> Advanced In A Structured Manner So That Anyone Getting Started With CSS May Study Or Refer To It With Ease.
 
-- 🌱 I’m Currently Learning **Data Structures & Algorithms and Web Developmen **
+- 🌱 I’m Currently Learning **Data Structures & Algorithms and Web Development **
 
 - 👯 I’m Looking To Learn More About & Collaborate On **OpenSource Projects**
 
@@ -25,11 +25,19 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
+    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a> 
+    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a> 
+    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
     <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>  
-    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>  
-    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>  
+    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> 
+    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/wordpress.png"/> </a>
+    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
+    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> </a> 
+
 </p>
 
 
