@@ -4,24 +4,6 @@
 <h3 align="center">I'm A Student & A Passionate Learner from India.</h3>
 
 
-## 🙋‍♂️ About Me
-
-- 🔭 I’m Currently Working On A Project **CSS Complete Guide** Where I Am Covering CSS From Complete Beginners -> Advanced In A Structured Manner So That Anyone Getting Started With CSS May Study Or Refer To It With Ease.
-
-- 🌱 I’m Currently Learning **Data Structures & Algorithms and Web Development **
-
-- 👯 I’m Looking To Learn More About & Collaborate On **OpenSource Projects**
-
-- 📫 You Can Reach Me At **abhijitsahooas.01@gmail.com**
-
-- 👨‍💻 All Of My Projects Are Available at **[Github](https://github.com/abhijitsahoo99/abhijitsahoo99)**
-
-- 🖇 You Can Connect With Me At **[LinkedIn](https://www.linkedin.com/in/abhijitsahoo99/)**
-
-- ✍🏻 Blogs On Data Structures and Algorithms, Web Development and other Tech related are availible at **[Hashnode](https://abhijitsahoo.hashnode.dev)**
-
-- 📝 **[My Personal Website](https://abhijitsahooblog.wordpress.com)** 
-
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
