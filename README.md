@@ -39,11 +39,6 @@
 <br/>
 <br/>
 
-<a href="https://github.com/abhijitsahoo99/github-readme-activity-graph"><img alt="Abhijit Sahoo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abhijitsahoo99&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
